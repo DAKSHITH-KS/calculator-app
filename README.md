@@ -1,4 +1,4 @@
 # calculator-app
-first repository
+first repository on basic calulater
 <br>
 Author-DAKSHITH K S
