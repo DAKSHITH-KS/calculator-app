@@ -1,2 +1,2 @@
-# calculater-app
+# calculator-app
 first repository
